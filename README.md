@@ -5,7 +5,8 @@ Este projeto simula um processo seletivo com diversos cenários usando controle 
 
 **Casos Implementados:**
 
-Case 1: Verificação de Salário
+**Case 1: Verificação de Salário**
+
 Neste caso, é realizada uma verificação do salário base em comparação com o salário pretendido pelo candidato. Dependendo da relação entre esses valores, uma ação específica é tomada.
 
 **Case 2: Seleção de Candidatos**
